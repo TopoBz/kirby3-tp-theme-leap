@@ -1,0 +1,9 @@
+{
+	"name": "topobz/kirby3-tp-theme-leap",
+	"description": "Kirby 3 Topo Theme leap",
+	"type": "kirby-plugin",
+	"version": "0.0.1",
+	"require": {
+		"php": ">=7.2.0"
+	}
+}
