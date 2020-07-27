@@ -4,6 +4,7 @@
 	"type": "kirby-plugin",
 	"version": "0.0.1",
 	"require": {
-		"php": ">=7.2.0"
+		"php": ">=7.2.0",
+		"topobz/kirby3-tp": "^0.0.1"
 	}
 }
